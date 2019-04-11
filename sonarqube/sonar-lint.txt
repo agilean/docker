@@ -1,0 +1,5 @@
+https://bintray.com/sonarsource/SonarLint-for-Eclipse/download_file?file_path=releases%2Forg.sonarlint.eclipse.site-3.6.0.201806071228-RELEASE.zip
+
+
+
+https://github.com/checkstyle/sonar-checkstyle

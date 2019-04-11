@@ -1,0 +1,10 @@
+set SONAR_SCANNER_OPTS=-Xmx512m
+
+
+
+cd F:\software\sourcecode\dian
+
+F:
+
+
+F:\shengzheng\平安银行汽融科技交付物-姜鹏\sonar-scanner-3.2.0.1227\bin\sonar-scanner
